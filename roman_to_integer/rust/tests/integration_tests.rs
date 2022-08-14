@@ -2,6 +2,7 @@ use roman_to_integer::*;
 use rstest::rstest;
 
 #[rstest]
+#[case("", 0)]
 #[case("I", 1)]
 #[case("III", 3)]
 #[case("IV", 4)]
