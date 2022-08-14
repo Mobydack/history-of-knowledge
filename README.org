@@ -1,0 +1,6 @@
+* Links
+
+- [[./tasks.org][Main tasks]]
+- [[./data_strctures.org][Data strctures]]
+- [[./algorithms.org][Algorithms]]
+
