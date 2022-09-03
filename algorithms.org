@@ -1,1 +1,2 @@
 * Algorithms
+** TODO: [[./algorithms/euclidean_algorithm/README.org][Algorithm E.]]
